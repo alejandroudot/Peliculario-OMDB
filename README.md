@@ -25,5 +25,3 @@ Para más información busquen en [Pledu](https://pledu.plataforma5.la/modules/e
 https://www.omdbapi.com/?apikey=b2b4b54d&s=batman (MI API KEY)
 
 https://www.omdbapi.com/?apikey=b2b4b54d&t=Batman&plot=full&y=2005 (API KEY PARA FULL PELI)
-# Peliculario
-# Peliculario-OMDB
